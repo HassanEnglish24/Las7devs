@@ -249,6 +249,56 @@ img {
   padding: 20px;
   
 }
+.team-wrapper .bluru {
+
+  background: rgb(0, 0, 0, 0.50);
+
+  backdrop-filter: blur(7px);
+
+  height: 340px;
+
+  position: absolute ;
+
+width: 100%;
+
+top: 0px ;
+
+left: 0px;
+
+padding: 20px;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+flex-direction: column;
+
+}
+
+
+
+.bluru h1{
+
+  font-size: 22px ;
+
+  text-align: center;
+
+}
+
+.bluru p{
+
+  font-size: 14px ;
+
+  color: gold ;
+
+  text-align: center;
+
+}
+
+
+
 .ppp{
   display: flex;
   justify-content: center;
